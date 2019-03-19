@@ -37,7 +37,8 @@ ERBでの開発の限界を感じていろんな環境で動く言語、動作�
 
 
 ■ 公開しているほかの情報
-Githubレポジトリ: https://github.com/erajsdev/erajs/
+Githubレポジトリ:
+https://github.com/erajsdev/erajs/
 https://github.com/erajsdev/erajs.git
 GithubPagesでもプレイできます: https://erajsdev.github.io/erajs/
 

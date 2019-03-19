@@ -2,12 +2,12 @@
 
 ## プレイ
 * このゲームは18歳未満はプレイ禁止です。
-* [18歳以上なのでプレイする](https://dlsat.github.io/erajs/)
+* [18歳以上なのでプレイする](https://erajsdev.github.io/erajs/)
 
 
 # 改造のやり方
 ## 前準備
-* [現在のこのレポジトリのZIPファイル](https://github.com/dlsat/erajs/archive/master.zip) をダウンロードして適当な場所に展開します。
+* [現在のこのレポジトリのZIPファイル](https://github.com/erajsdev/erajs/archive/master.zip) をダウンロードして適当な場所に展開します。
 * [NodeJS](https://nodejs.org/ja/)のLTS版をデフォルト設定でインストールします。
 
 
